@@ -3,7 +3,9 @@
 ## Overview
 This Flutter application is a simple yet powerful task management tool allowing users to create, update, delete, and track tasks. Users can organize their tasks efficiently and stay productive with this intuitive app.
 
+<p align="center">
 <img src="Todo_App.gif" width="200" height="400" />
+</p>
 
 ## Features
 - Create new tasks with titles and descriptions.
